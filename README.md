@@ -2,6 +2,8 @@
 
 An interactive arcade-style game built in Python using the `turtle` graphics library and Object-Oriented Programming (OOP) principles. Random shapes fall from the top of the screen, and the player moves a paddle to catch them. Each shape has a different effect on the score.
 
+![Shape Catcher game screenshot](images/shape-catcher-game.png)
+
 ---
 
 ## Project Architecture
