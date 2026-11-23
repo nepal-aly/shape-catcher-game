@@ -50,7 +50,7 @@ An interactive arcade-style game built in Python using the `turtle` graphics lib
 ## Setup & Execution
 
 1. **Clone the repository:**
-   `git clone https://github.com/nepal-aly/shape-catcher-game.git`
+   `git clone https://github.com/Nepal-Ali/shape-catcher-game.git`
 
 2. **Navigate to directory:**
    `cd shape-catcher-game`
